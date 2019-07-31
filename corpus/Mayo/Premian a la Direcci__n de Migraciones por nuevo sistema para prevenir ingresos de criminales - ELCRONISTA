@@ -1,0 +1,49 @@
+
+Premian a la Dirección de Migraciones por nuevo sistema para prevenir ingresos de criminales
+La puesta en funcionamiento de un sistema de integración de datos en tiempo real y conectados con otros del mundo, le valió al organismo oficial el premio a la innovación tecnológica, que todos los años entrega la empresa Red Hat. El sistema argentino permite predecir amenazas de personas que viajan hacia o desde el país ante de que lleguen a la frontera
+
+Martes 15 de Mayo
+Imagen de SOLEDAD NAVARRO
+
+Por  SOLEDAD NAVARRO
+2
+
+Uno de los objetivos principales de un departamento de migraciones es asegurar que aquellos que ingresan al país tengan una estadía segura. Para la Dirección Nacional de Migraciones esto significa revisar el paso de 80 millones de personas por la frontera argentina por año, más aproximadamente 250.000 permisos de residencia emitidos anualmente. La puesta en marcha de un sistema de integración en tiempo real y totalmente conectados entre sí y con otros sistemas de seguridad del mundo, le valió a la DNM el premio a la innovación tecnológica, que todos los años entrega la empresa de soluciones Red Hat a los cinco mejores proyectos del año.
+
+El centro de convenciones Moscone, en pleno San Francisco, California, fue testigo del interesante caso argentino que sorprendió a todos los presentes. Ante más de 7000 personas que escuchaban expectantes, Osmar Alza, Director General de Control Migratorio y Enlaces, contó cómo en dos años lograron crear una red que le permite a sus analistas tener toda la información consolidada e integrada por pasajero y en tiempo real, algo que habitualmente se hacía en forma manual y no permitía predecir posibles amenazas criminales en personas que viajaban hacia o desde el país.
+
+Así fue cómo con el asesoramiento y ayuda de la compañía del sombrero rojo, el departamento creó una plataforma de análisis de migración de nube privada, pero de fuente abierta. "Mejoró tiempo y calidad en la toma de decisiones de nuestros agentes", aseguró el funcionario orgulloso y visiblemente nervioso.
+
+Según explicó el experto, hasta el 2015, la Argentina era débil desde el punto de vista de la integración de los datos, había mucha en cantidad, pero nada estaba conectado entre sí y entonces se encontraban frente a un sistema reactivo. "Reaccionábamos cuando teníamos alguien ya en la frontera, y una vez que vos tenes a la persona ahí ya es un problema", contó Alza en diálogo con El Cronista.
+
+Mirá también
+Fila será el sponsor oficial de la Asociación Argentina de Tenis
+De esta manera, la marca líder de fabricación de indumentaria deportiva vestirá, los próximos dos años, a los equipos de Copa Davis, Fed Cup, Juniors y equipos en desarrollo.
+
+La frontera argentina cuenta con 234 pasos fronterizos, con una extensión de más de 15.000 kilómetros. "Algo así como ir de la Ciudad de México a Alaska por carretera", indicó Alza, de esa extensión 9000 son de frontera terrestre. Para el organismo, el desafío era armar un sistema más predictivo, que permitiera un análisis rápido y exhaustivo para semejante extensión de frontera. "Debíamos integrar las bases que ya teníamos disponibles y no estábamos usando. Por ejemplo, Interpol que lo conectamos hace poco más de un año, ya funciona con un éxito absoluto. Hoy manejamos una gran cantidad de circulares rojas que hasta 2016 no había", dijo el director tecnológico.
+
+Con miras a evitar el procesamiento manual de grandes volúmenes de datos, la DNM transformó su tecnología y desarrolló el Sistema de Análisis de Información Migratoria (SAM). Se utilizaron numerosas tecnologías y servicios de Red Hat para consolidar las bases de datos de los diferentes departamentos y fuentes en un repositorio de datos único de búsqueda: Red Hat Enterprise Linux, Red Hat OpenShift Container Platform, Red Hat CloudForms, Red Hat Ansible Tower, Red Hat Virtualization, Red Hat JBoss Fuse y Red Hat Satellite.
+
+Desde la introducción del SAM, la DNM manifiesta haber experimentado una reducción del 90% en el tiempo dedicado por los analistas a detectar y examinar perfiles sospechosos. "Y elegimos tecnología Open Source porque siempre que expones una problemática en red, la solución aparece de manera más rápida y eficiente", subrayó Alza sobre la solución elegida.
+
+La herramienta ayuda entre otras cosas a contar con información anticipada de pasajeros, que en un vuelo internacional le da a migraciones varias horas de ventaja para analizar la situación de cada uno y anticiparse a un posible problema. Y esto según la entidad, "es beneficioso también porque permite agilizar la entrada al país".
+
+Además, permite también conectar en línea toda la frontera argentina: la marítima, la fluvial, la terrestre, y la aérea, e integrarla a otros departamentos, como por ejemplo, el Colegio Público de Escribanos, muy efectivo en lo que refiere a los permisos de salida de los menores. Desde enero, se gestionaron 16000 permisos. Esos datos, cargados en línea, eliminan la controversia sobre qué menor puede salir y cuál no.
+
+En esta nota
+migraciones
+red hat
+premio
+innovation awards
+Mercados Online
+
+MONEDAS 		Compra 	Venta
+DÓLAR B. NACIÓN	0,6557	29,7000	30,7000
+DÓLAR BLUE	1,3180	30,6500	30,7500
+DÓLAR CDO C/LIQ	9,7844	-	32,7869
+EURO	1,2631	35,0211	35,1044
+REAL	0,8634	7,4484	7,4649
+BITCOIN	-2,0107	6.348,8500	6.348,9900
+Revista Apertura
+La caída del consumo acelera el nuevo modelo de negocios de marcas deportivas
+
